@@ -22,7 +22,7 @@ Defpoints,continuous,0.30,"255,0,255",,,,,
 FFL_PARQUET,continuous,0.00,"191,0,255",Grid,"191,0,255",1,0.00,
 FO_Area,continuous,0.30,"191,0,255",,,,,"105,122,165"
 DIM_Furniture,continuous,0.05,"173,173,173",,,,,
-Ekspertiza,continuous,0.05,""255,0,0,",,,,,
+Ekspertiza,continuous,0.05,"255,0,0,",,,,,
 STR_WOOD,continuous,0.30,"153,38,0",,,,,
 TEXT,continuous,0.18,"0,38,153",512,4,,,,,
 CRV_HELP,continuous,0.00,"38,153,0",,,,,
