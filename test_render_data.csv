@@ -24,7 +24,7 @@ FO_Area,continuous,0.30,"191,0,255",,,,,"105,122,165"
 DIM_Furniture,continuous,0.05,"173,173,173",,,,,
 Ekspertiza,continuous,0.05,"255,0,0,",,,,,
 STR_WOOD,continuous,0.30,"153,38,0",,,,,
-TEXT,continuous,0.18,"0,38,153",512,4,,,,,
+TEXT,continuous,0.18,"0,38,153",,,,,
 CRV_HELP,continuous,0.00,"38,153,0",,,,,
 WALL_DIMS,continuous,0.05,"105,122,165",,,,,
 WALL_ELEV,continuous,0.05,"105,122,165",,,,,
