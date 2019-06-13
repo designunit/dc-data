@@ -1,5 +1,5 @@
 layer,linetype,lineweight,color,pattern_name,pattern_color,pattern_scale,pattern_lineweight,solid_color
-0,continuous,0.00,"0,0,0",,,
+0,continuous,0.00,"0,0,0",,,,,
 PL_Santehnika,continuous,0.05,"255,63,0",,,,,
 PL_Furniture,continuous,0.05,"173,173,173",,,,,
 PL_Equipment,continuous,0.05,"63,0,127",,,,,
