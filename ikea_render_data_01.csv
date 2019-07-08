@@ -1,0 +1,9 @@
+layer,code,linetype,lineweight,color,pattern_name,pattern_color,pattern_scale,pattern_lineweight,solid_color
+Cover_02_transit,,continuous,0.00,"81,195,70",,,,,"81,195,70"
+Cover_03_amphi,,continuous,0.00,"68,197,191",,,,,"68,197,191"
+Cover_04_sand,,continuous,0.00,"255,232,158",,,,,"255,232,158"
+Cover_05_fountain,,continuous,0.00,"30,235,211",,,,,"30,235,211"
+Cover_06_cafe,,continuous,0.00,"133,133,133",,,,,"133,133,133"
+Cover_09_line,,continuous,0.00,"50,52,134",,,,,"50,52,134"
+Cover_10_water,,continuous,0.00,"50,52,134",,,,,"50,52,134"
+Cover_11_tartan,,continuous,0.00,"50,52,134",,,,,"105,105,105"
